@@ -216,5 +216,3 @@ This project is released under the **Creative Commons CC0 1.0 Universal** public
 domain dedication. See [`LICENSE`](./LICENSE) for the full text.
 
 > The MATLAB Runtime is distributed by MathWorks under its own license terms.
-</content>
-</invoke>
